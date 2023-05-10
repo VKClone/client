@@ -1,0 +1,13 @@
+.wrapper {
+    width: 300px;
+    padding-top: 50px;
+    margin: 0  auto;
+}
+
+.fileinput {
+    display: none;
+}
+
+.avatar {
+    cursor: pointer
+}

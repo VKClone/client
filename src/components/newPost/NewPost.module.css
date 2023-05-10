@@ -1,0 +1,34 @@
+.container {
+    display: flex;
+    align-items: start;
+
+    padding: 15px;
+}
+
+.avatar {
+    margin-right: 15px;
+}
+
+.textareaWrapper {
+    width: 100%;
+}
+
+.formItem {
+    padding: 0;
+}
+
+.addImg {
+    margin-left: 15px;
+    padding: 3px;
+}
+
+.addImg > input[type="file"] {
+    display: none;
+}
+
+
+.preview {
+    margin-top: 10px;
+    width: 100%;
+    border-radius: 10px;
+}
